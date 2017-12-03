@@ -1,5 +1,3 @@
-
-
 new_letters = []
 
 msg = input(':')
